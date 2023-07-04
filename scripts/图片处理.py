@@ -13,7 +13,21 @@ def extract_image_urls_from_markdown_file(file_path):
 
 def save_images_from_markdown_directory(directory):
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
+        'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+'Accept-Encoding': 'gzip, deflate, br',
+'Accept-Language':'en,zh-CN;q=0.9,zh;q=0.8',
+'Cache-Control': 'no-cache',
+'Dnt': '1',
+'Pragma': 'no-cache',
+'Referer': 'https://sites.google.com/',
+'Sec-Ch-Ua': '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+'Sec-Ch-Ua-Mobile': '?0',
+'Sec-Ch-Ua-Platform': "Windows",
+'Sec-Fetch-Dest': 'image',
+'Sec-Fetch-Mode': 'no-cors',
+'Sec-Fetch-Site': 'cross-site',
+'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+'X-Client-Data': 'CJC2yQEIprbJAQipncoBCOmBywEIlqHLAQiLq8wBCJz+zAEIhZPNAQiFoM0BCO2zzQEI2rTNAQi/tc0BCNy9zQEIu77NAQilv80BCP6/zQE='
     }
 
     for root, dirs, files in os.walk(directory):
