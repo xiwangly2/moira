@@ -1,6 +1,7 @@
 import os
 import re
 import requests
+from urllib.parse import urlparse
 
 def extract_image_urls_from_markdown_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:

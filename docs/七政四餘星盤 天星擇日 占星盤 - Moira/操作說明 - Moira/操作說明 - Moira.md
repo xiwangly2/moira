@@ -17,12 +17,12 @@
 
 - - 輸入出生年月日時及地點。 高解析度使用者介面, 在星圖右上方按 
 
-![img](https://lh3.googleusercontent.com/zxTHNsGTHdLQQNRpfn9__45jDzz3nZFwJXAH_kql7Aekb5j33MDX3-OBhriETmsnrESevStT6fkcf241dilcMCmBnVFLmcUVZpD2vzqutKU=w1280)
+![img](../../../saved_images/zxTHNsGTHdLQQNRpfn9__45jDzz3nZFwJXAH_kql7Aekb5j33MDX3-OBhriETmsnrESevStT6fkcf241dilcMCmBnVFLmcUVZpD2vzqutKU=w1280)
 
 - -  可顯示資料輸入表格。
   - 输入出生年月日时及地点。 高分辨率使用者接口, 在星图右上方按 
 
-![img](https://lh5.googleusercontent.com/7h4rVScVsoyKSKpGvcz8_Iomc5BOkkJlIyAk4OFa9cWlS8MGPyOEOwjbeReDCJNWVWT-v8kez6THNyzyUftydKdpuAnGyTbTuq_k5kj5XiI=w1280)
+![img](../../../saved_images/7h4rVScVsoyKSKpGvcz8_Iomc5BOkkJlIyAk4OFa9cWlS8MGPyOEOwjbeReDCJNWVWT-v8kez6THNyzyUftydKdpuAnGyTbTuq_k5kj5XiI=w1280)
 
 - -  可显示数据输入表格。
 
@@ -58,7 +58,7 @@
 - 按更新星盤。
 - 按更新星盘。
 
-![img](https://lh6.googleusercontent.com/bpS6l3Wg4p6fSrSJZ1fUoYgOeHlxyQXzQXwzKpiUJ6YihLksAOuCCiRW63c8Ki7s=w1280)
+![img](../../../saved_images/bpS6l3Wg4p6fSrSJZ1fUoYgOeHlxyQXzQXwzKpiUJ6YihLksAOuCCiRW63c8Ki7s=w1280)
 
 - - 輸入性名及性別。
   - 输入性名及性别。
@@ -89,7 +89,7 @@
 - - 修改性名及性別, 選擇
   - 修改性名及性别, 选择
 
-![img](https://lh3.googleusercontent.com/xjT-oCRjoaxkgqfKrqib73H9ktQLdG06HE2C5QPwir7x-6ZPycmLMGkBHno7QY1SZtI3wTaqWQFtP0mFGIuICyeV7wr4NM8OD24h6vcLGOM=w1280)
+![img](../../../saved_images/xjT-oCRjoaxkgqfKrqib73H9ktQLdG06HE2C5QPwir7x-6ZPycmLMGkBHno7QY1SZtI3wTaqWQFtP0mFGIuICyeV7wr4NM8OD24h6vcLGOM=w1280)
 
 ![img](../..\images\M_p3dfS4WIVZ7ZCeyeDErAHmmmtWXxCx3ipVircjfkDkp7hKkHE_VukxjsD8i_NTXiGealFH83LiKc-I43asnWV8gRUMv9wk9RbP8qYF998=w1280)
 
