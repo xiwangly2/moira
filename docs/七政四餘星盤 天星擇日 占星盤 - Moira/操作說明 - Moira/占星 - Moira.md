@@ -21,7 +21,7 @@
 - - 太陽返照盤。
   - 太阳返照盘。
 
-![img](https://lh4.googleusercontent.com/zgOT0OF7A3-es63BN14HVOZyC1wwLg0iAZSO0Pg7MlNrSPSAfZSdYJ2cbMYSZcBHO5eryh5sEorbxLGgCicPH69eOJBqgGBH89fluceJIWs=w1280)
+![img](../images/zgOT0OF7A3-es63BN14HVOZyC1wwLg0iAZSO0Pg7MlNrSPSAfZSdYJ2cbMYSZcBHO5eryh5sEorbxLGgCicPH69eOJBqgGBH89fluceJIWs=w1280)
 
 可先更改地點, 後在太陽返照圈按左鍵選擇太陽返照盤。 如有需要可修改太陽返照盤相位顯示。
 
@@ -47,7 +47,7 @@
 
 ![img](../../../saved_images/67Hs0KvDMgz-aL2JG8yb5-hq_17kYCYgQLdj3HJTC7_PYRE4yC-HAWyqiBLBo5cCdrI2GBF5gLsAYRq9j-i1-NA4Y7XcDSDkcnuOhPldn_E=w1280)
 
-![img](https://lh4.googleusercontent.com/fzxVDux7NSG77lQ3D4p5u4ICVsLrsOwvlV-RvGWZXnOLfA7g-1E3pxILnMWqZwYs37IZUzoA-XPyW_E9nE08-lBrDm5VQeD-LmqTXzh83D0=w1280)
+![img](../images/fzxVDux7NSG77lQ3D4p5u4ICVsLrsOwvlV-RvGWZXnOLfA7g-1E3pxILnMWqZwYs37IZUzoA-XPyW_E9nE08-lBrDm5VQeD-LmqTXzh83D0=w1280)
 
 ​          
 
@@ -152,7 +152,7 @@ Reference place 计算法, 可先更改地点, 再选合盘型式
 
 ![img](../../../saved_images/MPRPmWsIcbWz4fNvFhqDDqjwi9yCGS7Xlv_3JIB34DRXRMU3PPF3WJc49Ut3IsYJKj6kOnx4CPT1VqeUCdHBmd5iBawbY2yj7pD4eYS_c5o=w1280)
 
-![img](https://lh4.googleusercontent.com/YlVX7qLww1HDPpvBN-8peF4k4dpaTrdu9WAhERIMdowHU-7nhmi92o9XiUBDmTQNMTM_iFZZCpKTZs0dIwIpU3SItv81gUFnajee0W7ELz8=w1280)
+![img](../images/YlVX7qLww1HDPpvBN-8peF4k4dpaTrdu9WAhERIMdowHU-7nhmi92o9XiUBDmTQNMTM_iFZZCpKTZs0dIwIpU3SItv81gUFnajee0W7ELz8=w1280)
 
 , 后按 。 如有需要可修改组合盘相位显示。
 
@@ -169,7 +169,7 @@ Reference place 计算法, 可先更改地点, 再选合盘型式
 
 ![img](../../../saved_images/NhA9Jc2ermBTLc-BN-XPiGlZovO6DW0cMRxbfsIWH3MQzVP3v5URwLblrl1G9oYj_0_5SrByJyI0I7vLe1qYnlV5QkQnu6OALuIZafF8GWs=w1280)
 
-![img](https://lh4.googleusercontent.com/DielmCLJ5CJNrdc7YLs-HpqIzl1RoEf4ZDl59PMmfzhAsP5QasVf23MrpgmgVWXjhPdWAOKqh0Txb5bS_yTtLTKYLdexcQ3pnU8xH8ns-Pc=w1280)
+![img](../images/DielmCLJ5CJNrdc7YLs-HpqIzl1RoEf4ZDl59PMmfzhAsP5QasVf23MrpgmgVWXjhPdWAOKqh0Txb5bS_yTtLTKYLdexcQ3pnU8xH8ns-Pc=w1280)
 
 再選合盤型式 , 後按 。 如有需要可修改比較盤相位顯示。
 

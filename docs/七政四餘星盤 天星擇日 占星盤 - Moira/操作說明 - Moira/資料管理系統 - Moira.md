@@ -10,15 +10,15 @@
 - 在表格內直接輸入七政四餘或占星盤資料, 包括名稱、性別、出生時間及地點。
 - 在表格内直接输入七政四余或占星盘数据, 包括名称、性别、出生时间及地点。
 
-![img](https://lh4.googleusercontent.com/mY3Tg7WnS9g-7Xk_AjEwnuK_9YozVfh5UlANGu1MHK3dzA9VtAjU7ByZv86eLvQBqABTfzGVTk_9Td52vWgEEqeFe1V2cz9ZBGH3eE8fNr4=w1280)
+![img](../images/mY3Tg7WnS9g-7Xk_AjEwnuK_9YozVfh5UlANGu1MHK3dzA9VtAjU7ByZv86eLvQBqABTfzGVTk_9Td52vWgEEqeFe1V2cz9ZBGH3eE8fNr4=w1280)
 
 或在表格內直接輸入天星擇日盤資料, 包括名稱、性別、時間、地點、座山度數及立命方法。
 
 或在表格内直接输入天星择日盘数据, 包括名称、性别、时间、地点、座山度数及立命方法。
 
-![img](https://lh4.googleusercontent.com/eNUnuUAcVHMzIolSnzOXr6BEoAzPYjXC-alK68JVnra5DQTyMSvp8Z1ynm28nyf1o7N8ylbTMjaDVoP_WxfyPl7vavOGOk9yP5YLoxbLSAI=w1280)
+![img](../images/eNUnuUAcVHMzIolSnzOXr6BEoAzPYjXC-alK68JVnra5DQTyMSvp8Z1ynm28nyf1o7N8ylbTMjaDVoP_WxfyPl7vavOGOk9yP5YLoxbLSAI=w1280)
 
-![img](https://lh4.googleusercontent.com/d-k1oGEhAxX5j8Nx5CerXAgr9LL-QbYuP60QlFyNcjR0RVuQ8ffd-194rKruoeU00zwHQcHOGxueMd6ie-egy0biGQSKvRHAHzL3ql04iR4=w1280)
+![img](../images/d-k1oGEhAxX5j8Nx5CerXAgr9LL-QbYuP60QlFyNcjR0RVuQ8ffd-194rKruoeU00zwHQcHOGxueMd6ie-egy0biGQSKvRHAHzL3ql04iR4=w1280)
 
 - 按 。
 
@@ -46,7 +46,7 @@
 
 ![img](../../../saved_images/ygiphOraPrOKhJZbg003reJmG_uiNxik8Z38ZhYN4_NFyE2vE8fvF8rBn6-FBioz=w1280)
 
-![img](https://lh4.googleusercontent.com/KBqVw-D0JsIWWjj06fIpF0aD0QUI6aY1xkB36aNn3Wuzt1bqur7bgwmKwd144r9_=w1280)
+![img](../images/KBqVw-D0JsIWWjj06fIpF0aD0QUI6aY1xkB36aNn3Wuzt1bqur7bgwmKwd144r9_=w1280)
 
 - , 以 "出生时间" 递减排序, 再按一次 。
 
@@ -65,7 +65,7 @@
 - 翻轉先後次序, 按
 - 翻转先后次序, 按
 
-![img](https://lh4.googleusercontent.com/2baVjgfiKeRZnV1i0OiIMCasIznjbfYKew-OoW8eL1Lt-HfFVqn1Fh6zqZAtIbzVDN0rPGvqUWVAZN0tywoIJ4xVShcFRLBQrarxR9eCsow=w1280)
+![img](../images/2baVjgfiKeRZnV1i0OiIMCasIznjbfYKew-OoW8eL1Lt-HfFVqn1Fh6zqZAtIbzVDN0rPGvqUWVAZN0tywoIJ4xVShcFRLBQrarxR9eCsow=w1280)
 
 **資料選項  数据选项**
 
@@ -102,7 +102,7 @@
 
 **資料存檔  资料存盘**
 
-![img](https://lh4.googleusercontent.com/hMWzdY1ZRmGZourEF0BPVd4Y4UbtbiYuzH6qN26BV5ksn30ixzmHGBHBaxaOKQytPIZokG3_GO2Bmmvc9EQXDFBvvRhu76EnoM47bplY4v8=w1280)
+![img](../images/hMWzdY1ZRmGZourEF0BPVd4Y4UbtbiYuzH6qN26BV5ksn30ixzmHGBHBaxaOKQytPIZokG3_GO2Bmmvc9EQXDFBvvRhu76EnoM47bplY4v8=w1280)
 
 - 將資料存檔, 按 。
 - 将资料存盘, 按 
@@ -138,11 +138,11 @@
 
 ![img](../../../saved_images/5XBGv1p8hAypAQUOwM-K9TU1CjEdtscPHZRF4E9og4WHKxLO43bEfv0rVFbeOIZra1wkI9ZEjJI61OPxkq6Wn8eGfiPxdOEHrLOzC3Fi2_M=w1280)
 
-![img](https://lh4.googleusercontent.com/IItbmVGOVnAmWya9zwgSjNZPWhjcosVIt2xNJFYqkwSznrGMA8QJAVAEtl_mUW7U4Vl03SFdhsaT8iMXHu7LdZ4xw4U9edTCtlDBENM0lqg=w1280)
+![img](../images/IItbmVGOVnAmWya9zwgSjNZPWhjcosVIt2xNJFYqkwSznrGMA8QJAVAEtl_mUW7U4Vl03SFdhsaT8iMXHu7LdZ4xw4U9edTCtlDBENM0lqg=w1280)
 
 ![img](../../../saved_images/G9CrJxU7SFQf8Z5NKwWob0JI2dULcjJwVKCgTsO1owUnq9vDhjyeeTNgcg0IuhZ3Qj_9F_jKfmC69gkfafFpxuRTiQwEqPIiuU1N3_2rqpk=w1280)
 
-![img](https://lh4.googleusercontent.com/IU3Ou0tLvPipgEkgiOKDG_6oIcLshv1-lYCST8we7DwGbbnzenecOGVIjcRh3B1fJCvRn-AAforSwNHf014UZnr5fLROvv_0LUhbX07Lo_g=w1280)
+![img](../images/IU3Ou0tLvPipgEkgiOKDG_6oIcLshv1-lYCST8we7DwGbbnzenecOGVIjcRh3B1fJCvRn-AAforSwNHf014UZnr5fLROvv_0LUhbX07Lo_g=w1280)
 
 ![img](../../../saved_images/O18n0ZMW9qggC4BpF3Ke1nGEm9M7HTNkuDHlj8ryz1ErCHigZRbGZkIQqRW5oiB9xI5yvc0rqxWiB4JQOKRzREZkKYBiXb_Wl2bPVVSLbKA=w1280)
 

@@ -15,7 +15,7 @@
 - 在星圖外圍空白部分, 按右鍵可控制角距標記顯示。
 - 在星图外围空白部分, 按右键可控制角距标记显示。
 
-![img](https://lh4.googleusercontent.com/URzOGD5K77UB2LCGSz2rjq1l-t4N7fbvFnpLya7hoiNSilIt5cU1n4xPv48rIi0A8hh7m38TUbDgg4j6ewKd8RC6avf51AhlyEVwessSGx8=w1280)
+![img](../images/URzOGD5K77UB2LCGSz2rjq1l-t4N7fbvFnpLya7hoiNSilIt5cU1n4xPv48rIi0A8hh7m38TUbDgg4j6ewKd8RC6avf51AhlyEVwessSGx8=w1280)
 
 - - - 可選擇顯示會, 衝, 刑, 合等角距。 角距顯示隨鼠標移動。
     - 可选择显示会, 冲, 刑, 合等角距。 角距显示随鼠标移动。
@@ -34,9 +34,9 @@
 
 -  或  可显示或隐藏数据输入表格。 在表格左上方按  或  可固定或自动隐藏表格。
 
-![img](https://lh4.googleusercontent.com/kgYb5gJ0-XCRwIpOtNPUElWW46aaaS-hJtHIJc3XH3f1qRg5Ae6UhVZ-oCUJFnvvq7CH3FJB8KE-HJNseo0XEh7YqIPEZRD2uquBAEJt52A=w1280)
+![img](../images/kgYb5gJ0-XCRwIpOtNPUElWW46aaaS-hJtHIJc3XH3f1qRg5Ae6UhVZ-oCUJFnvvq7CH3FJB8KE-HJNseo0XEh7YqIPEZRD2uquBAEJt52A=w1280)
 
-![img](https://lh4.googleusercontent.com/7bc7izjasiUHslK-3Iukji6kT73PGyiQDtur4cSBL0ikY4-odzTxyhWPfvTLZtec9CZaJr8LsPkc3GaHj2eRZgaH4F9mIBVbo5Lb9ZC2NlQ=w1280)
+![img](../images/7bc7izjasiUHslK-3Iukji6kT73PGyiQDtur4cSBL0ikY4-odzTxyhWPfvTLZtec9CZaJr8LsPkc3GaHj2eRZgaH4F9mIBVbo5Lb9ZC2NlQ=w1280)
 
 ![img](../../../saved_images/Xjwb-G9SvWRaNQcA7tOQVVoMFA3N6_qJyQUmVVUfSfMYwkVpEi6UFPT54rlfq6x9IoOf1710rPOsTe9A2kmDvzv_d80H5sxUPF0lxk0FYgU=w1280)
 
@@ -58,7 +58,7 @@
 - 在七政四餘盤流年圈按左鍵可更改流年。
 - 在七政四余盘流年圈按左键可更改流年。
 
-![img](https://lh4.googleusercontent.com/jZ4365b4npfk4yV8YgICLyX3ciorxY54VivKDLOFcg0pF3zu3QQdalVuwxy_XDnS35-3aYhJN6SnsBfFZEYPJvLgqvVT_czIHQxV6K23cq4=w1280)
+![img](../images/jZ4365b4npfk4yV8YgICLyX3ciorxY54VivKDLOFcg0pF3zu3QQdalVuwxy_XDnS35-3aYhJN6SnsBfFZEYPJvLgqvVT_czIHQxV6K23cq4=w1280)
 
 - 在天星擇日盤度數圈按左鍵可更改靜盤太陽位置。按: 加按 Shift 鍵向以前時間尋找。
 - 在天星择日盘度数圈按左键可更改静盘太阳位置。按: 加按 Shift 键向以前时间寻找。

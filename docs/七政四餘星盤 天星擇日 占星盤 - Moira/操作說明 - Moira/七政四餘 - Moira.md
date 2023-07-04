@@ -7,7 +7,7 @@
 - - 圖解本命及流年星盤。
   - 图解本命及流年星盘。
 
-![img](https://lh4.googleusercontent.com/Hcz1S2OQEPcDKXda-qg8i8XPLoWVFgcnUrqOC5Fr-lCgjdjYE7Vz7jx1beFltUOQlPRK9oCrIrKtgqDEwJWM4Ekd7T3jR22zJB4TbCfsspU=w1280)
+![img](../images/Hcz1S2OQEPcDKXda-qg8i8XPLoWVFgcnUrqOC5Fr-lCgjdjYE7Vz7jx1beFltUOQlPRK9oCrIrKtgqDEwJWM4Ekd7T3jR22zJB4TbCfsspU=w1280)
 
 **浮動星盤註釋  浮动星盘注释**
 
@@ -36,7 +36,7 @@
 
 ![img](../../../saved_images/GrAZxd9rie__v224LUrWhtm_O5sQVjoHPiZXB7drnxALYVPujF7RkI4yt_12737bkqanCBjAL9OxpehgaD31lsmeR87fJIYrduUaoHfTBnk=w1280)
 
-![img](https://lh4.googleusercontent.com/Ja5bGfDR-AglL38haLiUP3yjHcbLeuDvjIAwKYB3trZENKnoYn4lZ44k4vdyvejh=w1280)
+![img](../images/Ja5bGfDR-AglL38haLiUP3yjHcbLeuDvjIAwKYB3trZENKnoYn4lZ44k4vdyvejh=w1280)
 
 ​                        
 
@@ -91,7 +91,7 @@
 
 ![img](../../../saved_images/yIzXTEGPZ_4ExNPe5DFLCBLKgC94eSZ0vY9sd2lOyU1iHuZTSipDFFefw7sBT8MNuRbVZMVTR1gYR1QNNnDAn-ags4nwhW7ymRq7eZK9q0Q=w1280)
 
-![img](https://lh4.googleusercontent.com/tfyy9lgGmulf5m1SrJPAVR-RE8z6LceBlkeryalK60Y8PCn7RErzyXqfIiiphfE0LcA5uk4JLoaUXynt8YrbG46Izjq54TcRYhHBMdXvnjo=w1280)
+![img](../images/tfyy9lgGmulf5m1SrJPAVR-RE8z6LceBlkeryalK60Y8PCn7RErzyXqfIiiphfE0LcA5uk4JLoaUXynt8YrbG46Izjq54TcRYhHBMdXvnjo=w1280)
 
 ​                    
 

@@ -42,11 +42,11 @@ def save_images_from_markdown_directory(directory, save_dir):
 
 
 # 设置保存图片的目录
-save_directory = 'saved_images'
+save_directory = 'docs/七政四餘星盤 天星擇日 占星盤 - Moira/images'
 
 # 创建保存图片的目录（如果不存在）
 os.makedirs(save_directory, exist_ok=True)
 
 # 遍历目录中的Markdown文档并保存其中的图片
-markdown_directory = 'D:/Projects/xiwangly2/moira/docs/七政四餘星盤 天星擇日 占星盤 - Moira'
+markdown_directory = 'docs/七政四餘星盤 天星擇日 占星盤 - Moira'
 save_images_from_markdown_directory(markdown_directory, save_directory)
