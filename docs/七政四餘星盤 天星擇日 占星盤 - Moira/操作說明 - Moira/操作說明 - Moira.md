@@ -7,9 +7,9 @@
 - - 選擇星盤 。
   - 选择星盘。
 
-![img](../..\images\47_BUv9tFXyxFZN1qms2-novzEriZqX66-zlPagtduGfMOZlJ6HdWeUjl2uXyosdcto1gFs8j5nT1vCLVlh8vCaAGm0fc7BYvGWbaiwjNck=w1280)
+![img](https://lh4.googleusercontent.com/H16grpGgM1A-q_pfnwktE0ulJ7qWrVMIMuHcInsf-a5z-GnmWCaeJHDNnDoupTNcEJaYO5DIgUvB3wjAV0Qejne44sTQiWg8fud03wD9v8I=w1280)
 
-![img](../..\images\u_8jiqSvN8xv8peDCcC4Wgszy2PO7u6Brl3T-AZDTt3FtEK0Nk9JqHsYw7uXQ_IBEm9jk8xnXw4PpJz7A62yXQJBXgUSASYsHQSqxjFiSMs=w1280)
+![img](https://lh3.googleusercontent.com/EDMK6V5UwY-fo8PZcQZv444kBhcVNhCiVV_5eHSb-ykaWJc8j05TtC6L04dP9CnuL94IQHb8kSy-zpmd4r8at8iLSY9lV8IoX0cxpyygZgA=w1280)
 
 ​                
 
@@ -17,24 +17,24 @@
 
 - - 輸入出生年月日時及地點。 高解析度使用者介面, 在星圖右上方按 
 
-![img](../../../saved_images/zxTHNsGTHdLQQNRpfn9__45jDzz3nZFwJXAH_kql7Aekb5j33MDX3-OBhriETmsnrESevStT6fkcf241dilcMCmBnVFLmcUVZpD2vzqutKU=w1280)
+![img](https://lh4.googleusercontent.com/YjtLZ_c1RhVtXxRBcdRFvYVjAplGKv9NJtQlOBrDHsTyNk3yeSyOTr4ls0UcZqNxiTkK4RZmlXHA6Dr8QJC5Og76CBr1P5M5p_UGjE9SgF8=w1280)
 
 - -  可顯示資料輸入表格。
   - 输入出生年月日时及地点。 高分辨率使用者接口, 在星图右上方按 
 
-![img](../../../saved_images/7h4rVScVsoyKSKpGvcz8_Iomc5BOkkJlIyAk4OFa9cWlS8MGPyOEOwjbeReDCJNWVWT-v8kez6THNyzyUftydKdpuAnGyTbTuq_k5kj5XiI=w1280)
+![img](https://lh5.googleusercontent.com/G_fvSp09zLTvJ6SEZ0kcZHqAAhtR0CoXbUwKGJRhc8Ou49TuUdcmiVfdL1a6SkHauZdtJfZY0cRVCRyQsxeBNWJWJ-AHipGdk0x6cREKqBQ=w1280)
 
 - -  可显示数据输入表格。
 
-![img](../..\images\HN2Vz5cnxer9lt8dcVG14BE5xudYN53SpwY_umYCfAIPC47w49rVXDDm5ix3kz5N6ziD_eWNERQIHbFHoQ7Z1EdCS0Sn862Ljdl0RSd3EK0=w1280)
+![img](https://lh5.googleusercontent.com/BHB0WAvkrFn7HjTXjhRjP6fUVYo6fu1KOIOOfKMjtyb6fajSKkehH7blj0lCmGUfJn_0uBoihg1Xp_ylkpFzMCgLLH-igPT2vmaim3V1v0A=w1280)
 
 按: 中國城市分省市排列, 先在 "國家或區域" 項內選擇省市, 後在 "城市" 項內選擇城市。 例如 "中國 甘肅"->"敦煌"。
 
 按: 中国城市分省市排列, 先在 "国家或区域" 项内选择省市, 后在 "城市" 项内选择城市。 例如 "中国 甘肃"->"敦煌"。
 
-![img](../..\images\VeC8KcvsOaimnagpTzlBDpwqkc0v6Y0dtZFU1r3WrmGIndULqpBwbqN_SQfu0psMb_jamAJq2jwE3kRNpINkPB3VNgv-uqrKwgLD-TZPL9c=w1280)
+![img](https://lh3.googleusercontent.com/kYJjPpsBaeLR9PiiVK4JiQui6p86Piv7y6qiBj-1vBJgUR6ek_UVp-cJkB8RTnnLSxoGAFC2JHcGgXkxjX2_6VzA50uFg8KG4X1UarQwexE=w1280)
 
-![img](../..\images\Zy_Ssm_wwTUDdfV_lsx03BLRUGsiRzuBytbZcatKC9ZbJ-dCg2GXXIRUVtqCM8D_8lzTGUF8069CsoXkHjXzKznoh2KtfUBsCggAiT_H6nY=w1280)
+![img](https://lh5.googleusercontent.com/ddw_GTOQJYCE2cI2qtf0MX5RxLnRWwqPudbPs54AZ18P7pj5RT8P-9eED1FU3yi_37ayZSRMmUkWK90GhrBOOEf5ebDugWMZ-m8wOoIpb-k=w1280)
 
 ​                
 
@@ -42,56 +42,56 @@
 
 或在 "城市" 项内直接输入经、纬度, 再在 "时区" 项内选择时区。 例如, 输入 "114E20'59, 20N13'48", 或 "114.35, 20.23", 或 "114:21E, 20:14N", 选择 Asia/Shanghai 或 Etc/GMT+8。
 
-![img](../..\images\RANPlmjKx9F9nwjlOIq8cbMKFYj09AgvN2w8qEgI4wTp6yeWJAYKKPHegSZYe0ZUPipY83q6pXmJsvPl3LyFOSzvLAHUu1QOtaOS5INV0d8=w1280)
+![img](https://lh6.googleusercontent.com/bF2SVo2iMlmM0DUVQsyLZhZS3SHw8aPMVldHMbebkq5GxMYDqWwgruK-lIQv3jornkxW7j-gVY8CIeEtSHLlEnide2RNgv0Iz5vgohwyDpI=w1280)
 
 按: 如果生年是在1900年至2100年範圍外, 可在生年位置直接輸入。 公元前日期, 可輸入 0 年為 1 B.C., -1 年為 2 B.C., 依此類推。
 
 按: 如果生年是在1900年至2100年范围外, 可在生年位置直接输入。 公元前日期, 可输入 0 年为 1 B.C., -1 年为 2 B.C., 依此类推。
 
-![img](../..\images\v042PCiiw_wZl3lOOsin9Jcp-bCldLs45MUhKK-e_JRCHqkPNC1ciFOHvQRttQv2weLMcUGoRlD1q2DdsIzK9OUMhoqw1i6j5lX2xVMOKY8=w1280)
+![img](https://lh3.googleusercontent.com/Hzyf6osOYR_djNlvWWzrx5hFENLHDujOLXOH0qsaJi-NfRKR8e-JGpsrtDPRFNBd_gsdgPpnjbUODn-qCWCKe5tQtEfGWDww7I4MpZfMcTY=w1280)
 
 - 天星擇日盤輸入座山度數及選擇日出或日落立命。
 - 天星择日盘输入座山度数及选择日出或日落立命。
 
-![img](../..\images\PwXNy8JdX_A6t6h8QhpsniPNrF6ksVLVoZFzVEhYuV2rXaG5bNdJnpMmal8oskMt3ryYpcJrQ9sNBEFYnxMN7mEPNXmwtDr710ZMAiIItps=w1280)
+![img](https://lh6.googleusercontent.com/VJSuOMvA2L3nIi7XXtM3oy5oWJkObpdUk78jjMUbNrjFfJAqbv_e6GkfbdAO840o33g8bI6X7G_KIgZ7myEj7YqaOBVGXp4AE2ipUZ0AVBs=w1280)
 
 - 按更新星盤。
 - 按更新星盘。
 
-![img](../../../saved_images/bpS6l3Wg4p6fSrSJZ1fUoYgOeHlxyQXzQXwzKpiUJ6YihLksAOuCCiRW63c8Ki7s=w1280)
+![img](https://lh6.googleusercontent.com/A9KLvovqO1gfxZUAdQHrpIiM7Dj520F64dT_5OvUJuwogu4caqtPWuHPNJp1lYyp=w1280)
 
 - - 輸入性名及性別。
   - 输入性名及性别。
 
-![img](../..\images\tM0hCq3P09nypsKSrCufJ7NcR1f2AUBWEkCu1pc994zqY4BSkSne91n42X36VKhewQoJJKOO2v566zGbeZK9uV22NmzZHBh-SakHLV3FCSg=w1280)
+![img](https://lh6.googleusercontent.com/6S94z-WCevyVdh168qIFN-TSL2yh0e0tI1m18BJMUc_FXvPONFtadkqD_FaT4fEHY2oTYWsivS6DNVPdDBHtNeYb6O77SobUEqABKwGymB8=w1280)
 
 - - 輸入批註。
   - 输入批注。
 
-![img](../..\images\NY1blkfaYhEi7SNe0KwUh3KBLLj4lqagD4zX0RujicR40Dm_t335g4DYu5qtgVONrYsWLHLmJaSq_9q8NUwjQwZYJdp2uSZqR3aBNuoZ3o0=w1280)
+![img](https://lh5.googleusercontent.com/PZkVTxq8hVossIa91QiNMoYzIKGZvL6GVtuX8NhApWWs88T0HQIJZQZodgE2di4AwTpHDxFoBkI-S900vARidp2ZcbKYl4NZfTnWwVotuMA=w1280)
 
 **資料存檔  资料存盘**
 
 - - 將資料存檔, 選擇
   - 将数据存盘, 选择
 
-![img](../..\images\qHS-Yjrv157bpT0Fb8AB96notDm3lpE0_IdYbiftfYZKjNusGpG_JYS0_LH2SW-kVvSQoWwCgZVg1ewFRfdEhpmOLw-iKl941g2k_2sXMyg=w1280)
+![img](https://lh4.googleusercontent.com/uKTy7PBNJiOyaViJV5WeBnG7gwYWGHBArWhFL4_Hbn6wBki45ra_FEkZBLMjwR-VmCrooOqF1cqqAEXv3HGmd5i8TkwQJ0f7XWU2gR3L428=w1280)
 
 **開啟檔案  开启档案**
 
 - - 開啟檔案, 選擇
   - 开启档案, 选择
 
-![img](../..\images\0J8tkJ4HjVV7mRgnptoop3DE9u8DM5zEr-6qgJ0eCE1Ws_SbVvNdNq2YkIXecjBpl732bm-A1f-vBdz6Jr4KX6RKkRtij5zyoQI6phBESvc=w1280)
+![img](https://lh4.googleusercontent.com/vfUSU8qmtSXr_8NzHtN_yCo5g3oJ-V2unpQAqDmZRGnjsx5XN240zUnmo7r3lbIQjWMAMDWAeHC-iUYBR8Dfg9i3pesoR_sSRkWUHK0sxKs=w1280)
 
 **修改性名及性別  修改性名及性别**
 
 - - 修改性名及性別, 選擇
   - 修改性名及性别, 选择
 
-![img](../../../saved_images/xjT-oCRjoaxkgqfKrqib73H9ktQLdG06HE2C5QPwir7x-6ZPycmLMGkBHno7QY1SZtI3wTaqWQFtP0mFGIuICyeV7wr4NM8OD24h6vcLGOM=w1280)
+![img](https://lh5.googleusercontent.com/Nc8_7iLTEn8HqxoRdbTL3rAhjmbVS1643s99FklHeLcnn0eG8cojC59D2QvUBLstFmztKoCdYVVPoDHtGdTe1wmlsH2JvEome5dteMBtFs4=w1280)
 
-![img](../..\images\M_p3dfS4WIVZ7ZCeyeDErAHmmmtWXxCx3ipVircjfkDkp7hKkHE_VukxjsD8i_NTXiGealFH83LiKc-I43asnWV8gRUMv9wk9RbP8qYF998=w1280)
+![img](https://lh6.googleusercontent.com/z6PPNKc7BQQYs4OZS8yHdYqPkTnicK5M8W8daaG_TSx6atSOls5P7Nh7_aVDRGwtUWtrm-1bqXXSeny3bt4dRwCeN-Cc6g3N9qFshjonN1o=w1280)
 
 ​                         
 
@@ -100,22 +100,22 @@
 - - 更新星盤, 按
   - 更新星盘, 按
 
-![img](../..\images\mK0rUBc6UGDiZ6_c3mlyl-FZK-1diR7qMkvPl1yLJDxmB09klORuMChE7YqYMKTM=w1280)
+![img](https://lh5.googleusercontent.com/ymkQHV6-6rM0wSEKEkvqa6nL8a62Qwy1WANsV2OBxPac6GM0kCmMTdKuhJRounjR=w1280)
 
 **星圖列印  星图打印**
 
 - - 星圖列印, 選擇
   - 星图打印, 选择
 
-![img](../..\images\JZsoyDMf2aYuF4AvfDnnkU5WLshlAKlqY4zQfu_jYwU7qArPAAHoYyLItouuFuglxXRSPZLQA7AClaHhwAeUgoEz6U0a1eeQOQQ4L4gPWug=w1280)
+![img](https://lh3.googleusercontent.com/Gy1MiDxWxtPwTKUCUdwQLQGVpAyvUxsn6ZGWJbIoVzBYu-1P7iU1xVUJoW_MEQe0TpYKH-hhfRRxkrV2Rld3V66vP-HDtwxhZUb1tIm1Yks=w1280)
 
 第一頁為星圖, 第二頁或以後為批註。
 
 第一页为星图, 第二页或以后为批注。
 
-![img](../..\images\GD7W4L4S0WtA0jGEVtLQfYHoAtas09QxBGbc6QP89GLOUFXlMe77iHhM44oGkM2TpA6cxUTxblhhFeBvJMsGc4apGo2GSmaCGIochhnE0qo=w1280)
+![img](https://lh3.googleusercontent.com/QC4d1w6_Z_YdyugVWDNl1FrxIFsYsSg9VzrO6FVZZKvYWIkH-S7phN6xFHfOKxyfmo3oBCHR284ua1Wy9Ac2x1f4x7TqLW1dn9iSLfopnq8=w1280)
 
-![img](../..\images\AiZ59mvMCrdS2yP4rgVCCLgPB6dv8TxMEiVP2_JHdZR-cieWtxC4qGY0maKEAzFNg7hWkW2NwK6d1r39dDAJER1mAES1AGuPMQZmbRoCKNU=w1280)
+![img](https://lh5.googleusercontent.com/IVjVx1SjvIujjkn0hbf44pwBss32CfjrpXLUZ13HE4AMjR4qGLSfTDdpUw4M6fLBi0gjcAODqWcl2cBxbkF9L1gbLZmOghUJl53WEGJhsSU=w1280)
 
 ​    
 
@@ -124,9 +124,9 @@
 - - 圖形存檔為 PNG 或 JPEG 格式, 選擇
   - 图形存盘为 PNG 或 JPEG 格式, 选择
 
-![img](../..\images\IWbU2nvR2Y3T57QzFa9sdwguzoIRu-6YPPLpR50StINxGBI1nRqX7IqvrRoT2z0jtvPVDdeceDAnt8LBN3Up6E1bqrhipDlQnSCxfu0nUVg=w1280)
+![img](https://lh3.googleusercontent.com/TPOu5bUOZIfsuH2qlhaiv_-MGB_ZBikdfdPxs2qwhX__jfwOYLkyptzJSdGhN11Q6w-suY1BLErKvZ9IfGFiyWpJsCLgLCU8H5hpY6z-Vto=w1280)
 
-![img](../..\images\dDNcSqRgvPIWh2-4LIFfxUUrlFnoHhedJmJji_hVC9wfmfbzws0JXJPfc2Ifjg-pkKcRMISMxq2A2vt-z6_sRcmHA0nY9u71hTrpw4WuZnM=w1280)
+![img](https://lh6.googleusercontent.com/sRt0uAfJUUy0RVw0o40oU6-CSwLL2F_hZUkaqAVooG007g5SciXjztw3ji8sIL6Wr1WPPR84EkrxGqijSspeB2Yd-LjfCCCY-3MqenQe94c=w1280)
 
 ​                      
 
@@ -139,11 +139,11 @@
 - - 反推八字時間, 選擇
   - 反推八字时间, 选择
 
-![img](../..\images\myBGd6F_8B29BRT3ueku99-R0NIt2pfaBIbFnBH93cl6A9eyWw306rHo5_EppJ0HR1LD-14KEEorC1wYJNNMdFyLNW0ScJcfQrDiTQhmUYQ=w1280)
+![img](https://lh5.googleusercontent.com/RsDgB1SlfL7h3-V3BtaqR9oiaSAk6PyS9FUYJIcTkrmS1cHfnDhe8jyAN8FFiElqi30DDoDvteuUdWE0D3XMzdydNIhhUrg9crBIezEd-aY=w1280)
 
-![img](../..\images\zlqC4K8VMX0Ey3ihccnsldaydZHdDx6ECh-WXlOBcTxHB0E5ssFT-XE-o4hgSbHxdav4dpiw8DV0bpfXXsU93DGgRcfkRoFrI3vodtKxT3g=w1280)
+![img](https://lh4.googleusercontent.com/AaN_SsPreM4hR_14_8W1QgEXu7mjJUPnc756qNKsGFLtRpuNCr_I706IduAo6W9TJL-RdWuqLsUqkDSVR9vg2Bsiy8JpFXh-WXj-mCgCBjY=w1280)
 
-![img](../..\images\DUnHMfgQlcF-9zG3SXDZSmOASJlTiDf64NCbi6iocxAvmNKwmtrsPlm9MZWT9a_AAxsgFR39Te5Ax4WQgDnb_Or_Miwi9tqswVUJ4EV6kWA=w1280)
+![img](https://lh4.googleusercontent.com/coKfTNeV2Oh_6zxwWOLsuwc25DCoeMyKxXGrQLpLvyqvUB-XrQQHVp1NjoOp3Dp8-5jQq8og_5G9EhCuD51tpknXMao7ipDrDJflOIlzbUs=w1280)
 
 ​                      
 
@@ -156,24 +156,24 @@
 - - 選擇批註, 輸入尋找文字, 按尋找下一項鍵
   - 选择批注, 输入寻找文字, 按寻找下一项键
 
-![img](../..\images\obDm2s6oxEKGk0JyP1koD6qkj_9L9ULZZzCwcOtrpCOQ9QM2u8_RK9z9ENOUdedRxjDYMErzcHsBw_NQb-v_N299ma1J5SAVw6Y1HfR7on0=w1280)
+![img](https://lh4.googleusercontent.com/a9tQLr_TAeXteuwyMnPcY6S201khpUptMNb1b44IQy5NsI2QYDooln7mfjUXxSTxl6BdFABOF8QYGCDRAFkmzZi1y52uj_174meQ8xlyTHY=w1280)
 
 **高解析度使用者介面  高分辨率使用者接口**
 
 - - 更改使用者介面, 選擇
   - 更改使用者接口, 选择
 
-![img](../..\images\Fc1lph40ebp-1y2QquBUMuUSQUyH0u-8o9gLnSFVx_TiQfe3MHGTY5B4SQdPtBygIXtCcJ3SWpUXv-EcZ4dz535jSwoBUk9hbs4PwT_986Q=w1280)
+![img](https://lh4.googleusercontent.com/nDDg30lkFivNS69BWWqz3NYw7F-UCa8-w3nwM2TrWYf1k0FLTfud1J7Gq4mqVpDwkK6f2UDDQyJzL3u8mOGL1YYWUWWK_H-jEMkoP0pH7uk=w1280)
 
-![img](../..\images\e6sU4DISDAEWHDzv2-vHEdeOr3PKYTEJ5vK0loTVK93_LBhyGR-F-RGC-99To7gd0tbSXigatavbMDfbxhfGiIEDJcNdpnD2SPz6l5SAbZ0=w1280)
+![img](https://lh3.googleusercontent.com/7gNEA76uc7yLRjydhfxM5Aq3yfIbKsvgQQMc_t_Evk321sl9fFPBn8fM_pihXBi91MgjK07jrW4vCpGTCL1cs9sIXpX-I3AeMdY8T2Gr_oE=w1280)
 
 ​          
 
 適用于畫面解析度1280x1024或以上。 在星圖右上方按 
 
-![img](../..\images\jUqtyQcruRnti33Bk5DhM5ZxgPLG68u_xlPJwqOXRi6zRP2Q7OjGV3LLLr1ffUsdQb_n4um3jVZi_oH3W-gGzE30oa56VBIp7J_OjHjTD7s=w1280)
+![img](https://lh3.googleusercontent.com/zg3w_fWFO42yuijITw8N6esM7VsoqLrRG6u_dhjwZ8B58o5qANtygAqW4zTLci46344lFFcE6B_pL5sIbjGbjYuD0pz3I3u2sUBxz_85qaw=w1280)
 
-![img](../..\images\s5NM--RpkANWej10R5tCq9II7ZYQbeqIpWmNyVNR4EhOoAxGpUriJ7YpLuxPGK0oVHZzNABTxjYaG10MtROsUNbOglKqGS9jNgOYI4ut8Qo=w1280)
+![img](https://lh4.googleusercontent.com/HuG23HOaEPWZ8ofv37ZBTgOqpP7uXxvUavNKw3Bx-sFo3D8j5jmXjslZtP0Mkn_8NHX_PDQ0oDIBoYJ7aoCOIyYTphzhXlR7fyIfSH29krU=w1280)
 
  或  可顯示或隱藏資料輸入表格。 在表格左上方按 或  可固定或自動隱藏表格。
 
@@ -183,6 +183,6 @@
 
  
 
-![img](../..\images\IAtdy6OC0qs-J-0U4vZc4o3WGJHHdnlR-1kRurs555jxZhUXK3Vi6dH4bLfE_lM8YdI_3k6jPEx76j9QioLvrPkI97RJQBwkVU8rer15rSY=w1280)
+![img](https://lh3.googleusercontent.com/Z2ysnL4d84RelPh42tCcuQG4mbeif7oC81n-tpwfTjsqukO0J8ezHwgxClXB-gEs9XGQAA-vl1XJk6DxwO0KjDmF_u34fCUgihB5kGrz2mU=w1280)
 
-![img](../..\images\8lZXx4bJQ2-S_TW3h83RUwz2uMV7jYCx-WmSrjvTX_465yTtRBpJZWs6qBAK5BtMMRJ1XtweJvFuvH-_yCq2tMN8QrRfNOEd18bGkV-i76U=w1280)
+![img](https://lh6.googleusercontent.com/6qj_oE3_bsxiNTqr-fWaYT4QyuuyP2BN5JrFwfAlDsIygud4kbIetVa8CMO4lUYkgf8KRek3pA2_a3xpEOuIBZjphh849if5LIfWY4_Nn9w=w1280)

@@ -2,7 +2,7 @@
 
 **曹仁麟《星度指南》演命式例**
 
-![img](../images/sIje9415F0D1jYck7BEIc5pLNItsWb78COcNgqp8UVgw1UYpQDYJ8Qg0lrykqnObB8E7zn_2TBFPOChBP2yS6mnO_KeW1xH1oyfS6xwfhhU=w1280)
+![img](https://lh4.googleusercontent.com/sIje9415F0D1jYck7BEIc5pLNItsWb78COcNgqp8UVgw1UYpQDYJ8Qg0lrykqnObB8E7zn_2TBFPOChBP2yS6mnO_KeW1xH1oyfS6xwfhhU=w1280)
 
 按: 星度指南原文以OCR輸入, 人工修正, 星曜位置以人工修改, 盡可能跟原圖相近。
 

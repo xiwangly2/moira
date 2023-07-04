@@ -1,5 +1,6 @@
 import os
 import re
+from time import sleep
 import requests
 from urllib.parse import urlparse
 
@@ -24,6 +25,8 @@ def save_images_from_markdown_directory(directory, save_dir):
                 for url in image_urls:
                     # 检查URL是否以http://或https://开头
                     if url.startswith('http://') or url.startswith('https://'):
+                        # 太快了会被拦截
+                        sleep(5)
                         response = requests.get(url)
                         if response.status_code == 200:
                             filename = os.path.basename(urlparse(url).path)
