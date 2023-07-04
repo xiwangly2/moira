@@ -15,20 +15,30 @@ def save_images_from_markdown_directory(directory, save_dir):
             if file.endswith('.md'):
                 file_path = os.path.join(root, file)
                 image_urls = extract_image_urls_from_markdown_file(file_path)
+                
+                # 读取文件内容
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+
                 for url in image_urls:
                     # 检查URL是否以http://或https://开头
                     if url.startswith('http://') or url.startswith('https://'):
                         response = requests.get(url)
                         if response.status_code == 200:
-                            filename = os.path.basename(url)
+                            filename = os.path.basename(urlparse(url).path)
                             save_path = os.path.join(save_dir, filename)
                             with open(save_path, 'wb') as f:
                                 f.write(response.content)
                             print(f'Saved image: {save_path}')
-                        else:
-                            print(f'Failed to download image: {url}')
-                    else:
-                        print(f'Skipped non-HTTP/HTTPS URL: {url}')
+                            # 替换Markdown文档中的URL为相对路径
+                            relative_path = os.path.relpath(save_path, os.path.dirname(file_path))
+                            content = content.replace(url, relative_path.replace("\\", "/"))
+                            print(f'Replaced URL in Markdown: {url} -> {relative_path}')
+
+                # 将修改后的内容写回文件
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    f.write(content)
+
 
 # 设置保存图片的目录
 save_directory = 'saved_images'
