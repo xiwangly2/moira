@@ -8,21 +8,21 @@ Windows [下載](https://drive.google.com/file/d/0B0HQ4JP0DkueOWFGUWV5c3FLMUk/vi
 
 **七政四餘星盤  天星擇日  占星盤:**  繁體中文顯示或列印格式。 可用简体中文显示或打印。
 
-[![img](D:\Projects\xiwangly2\moira\docs\images\kaIO8r4AyWMfkJ3gbLHB5vHE1d9kg74IO1scVLLirOFhNUavolGvWa-ZvVq4L7HzsKfC5lWXUyRNWM1w7y7C54S-roJRkQara-3Xe3Yx2WU=w1280)](https://sites.google.com/site/athomeprojects/display)
+[![img](https://lh6.googleusercontent.com/zUGphxj5rhIsgXp1DR0Q7y1Bq-PQMpVZ0nBCl12VfgCMRNOga1eiTOYcJLd3rHwUb9egR1FQcSYisDjbszhEcL8bSx9Jr6mR-cSB6YtmuBE=w1280)](https://sites.google.com/site/athomeprojects/display)
 
-[![img](https://lh4.googleusercontent.com/AR5mHLaWoXxGrOQLk61xFwN3UWjKl4bNkGameu3_OKUp0XChf3cGYPbszSAVYE5YGPcgskG9A3umMeK3hFG1ku3rKMwTnqNCmvr-sYXD5ag=w1280)](https://sites.google.com/site/athomeprojects/display)
+[![img](https://lh3.googleusercontent.com/UHeqvdmoVMaUVHJm5WfGhC8LS_-mIEMvAYeE7ukpQlneEtbj8J57QJ_QtsI8dczROcA1q-Fru86YOQ4kaBEYypCtMqyMlZz_goVpTwXytfg=w1280)](https://sites.google.com/site/athomeprojects/display)
 
-[![img](https://lh4.googleusercontent.com/CUl3-vdtzsX3IUoXn4li1mPMUdig2OORXz6OF8XUFF6iTUZe2P32-LPuUbY7hnNjA2eFJdEykNQlR7nAhf1vgNC7bD5JPJLRIU7MPzLCcGg=w1280)](https://sites.google.com/site/athomeprojects/display)
+[![img](https://lh3.googleusercontent.com/KFr78k7hEZZODIyVHKB07yxQc6ycMS6868FawL34iWT28fLTpxJa-L70bsmcFAE38Egchgqw1oj9ndrozhZgo1SoptEYoTF_spbRmNWqpXQ=w1280)](https://sites.google.com/site/athomeprojects/display)
 
-[![img](D:\Projects\xiwangly2\moira\docs\images\4J58uoLKjFocN6KFhlbCTnFkhsBpZXZfjv9RZExCeWwVUYxtdX3laX2HbaSCq4yBg7xjvWRG9dK5qJOUJbfCR_jpDwbblojk9irUgXbXxtQ=w1280)](https://sites.google.com/site/athomeprojects/display)
+[![img](https://lh3.googleusercontent.com/69SCkdaZ4MSnpdTP92tsGhuRYb-Y9QQukO-jmzgKvfNq3xD2IuYMGnYHUAyvfNgyGQi0TuXu6oJufnfd0VwPXUWrVF00390-RRfhTfziKbw=w1280)](https://sites.google.com/site/athomeprojects/display)
 
-[![img](https://lh3.googleusercontent.com/dqpkUUngY77WN8kWU69ZbajZoE8y_OFrmzEppRiv4wK8aVQLDFZxjocN8FPHiXD0LCcyxmrFP9mPtSafbK_H4u56BjWvwtiLWXP2CO6E16o=w1280)](https://sites.google.com/site/athomeprojects/display)
+[![img](https://lh4.googleusercontent.com/fOJji41PVAb2s22R8-TP91Ze0jVapzvxUHNBjrgQBJyt2AdgNGaKRQZ5PCTXHS-SAl5uEwiOoZogBoQ-0bV18q34NlvxmFuTgn1rW1aJIFI=w1280)](https://sites.google.com/site/athomeprojects/display)
 
-[![img](https://lh3.googleusercontent.com/sPohBGtfvLJZ9KzOj9qInypsrx3vQeR3i58fv0rFBaxHVIzJNOAYH_dFdoP-gM1LrhYVqp7VFuyfkLeT2Do-8-SfIreCYrh0R39DSIZMNOA=w1280)](https://sites.google.com/site/athomeprojects/display)
+[![img](https://lh3.googleusercontent.com/iPKRJNtIAgSghIUZhv31Hq7sX1rTLU42ek10DX1XsaVrbzhVeQd1xmq590AAtisl8IHy_Cr3zBzJY5E0ev7xscZlUjLcHEcywhk4UrutW10=w1280)](https://sites.google.com/site/athomeprojects/display)
 
-[![img](https://lh3.googleusercontent.com/iApbbKkFRMowbtiQH7V66x9Y_v8P0gWnHMJljL9elcwZoTtxgMTT2ZqOA7IzRZlgfq6XTadYtTiI9SyqAGuB3MF2YSgSDkF9IIw6QgrxcXk=w1280)](https://sites.google.com/site/athomeprojects/display)
+[![img](https://lh6.googleusercontent.com/H5tShETe--VZwnziD6RLgL70Is9VVDKbarmH5i60-8NENl8hZ3yyWZpsKcIW0hRLWmsIJ45zSP2ahtOIIkFAZQlQ0rqIaBsQQnf0m565bG4=w1280)](https://sites.google.com/site/athomeprojects/display)
 
-[![img](D:\Projects\xiwangly2\moira\docs\images\wvldme7s4ES1-i5GpyrliB9ZNyzR5JW-NZM_rSC-ECcA_otR8lIrzZHt95QGW03EeaOPxWZQyYyL79DvuGyVFGxS3Lu1O3RGQQv5gM2HU9Y=w1280)](https://sites.google.com/site/athomeprojects/display)
+[![img](https://lh5.googleusercontent.com/wgPWatMbeUf9xQz64YQCA-2qoSvloWbf0nTDqskri5Z3rPNE2YgeJ7voRRyvFVP5fGkGxkIhaO4ZiePiqqq9DN0kRqlsXIrWdvSkG3cfPdU=w1280)](https://sites.google.com/site/athomeprojects/display)
 
 本程式是自由軟體，您可以遵照自由軟體基金會 (Free Software Foundation) 出版的 GNU 通用公共許可證條款 (GNU General Public License) 第二版來修改和重新發佈這一程式，或者自由選擇使用任何更新的版本。
 
