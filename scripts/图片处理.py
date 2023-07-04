@@ -13,7 +13,7 @@ def extract_image_urls_from_markdown_file(file_path):
 
 def save_images_from_markdown_directory(directory):
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
     }
 
     for root, dirs, files in os.walk(directory):
